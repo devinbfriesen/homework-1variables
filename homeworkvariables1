@@ -1,0 +1,15 @@
+main.py
+Artist = "Bruce Springsteen"
+Genre = "Americana"
+DurationInSeconds = "330"
+NumberOfSolos = "2"
+NumberOfTimesPlayedLive = "1942"
+NumberOfYearsToured = "30"
+NumberOfTimesPlayedPerYear = 1942 / 30
+print (Artist)
+print (Genre)
+print (DurationInSeconds)
+print (NumberOfSolos)
+print (NumberOfTimesPlayedLive)
+print (NumberOfYearsToured)
+print (NumberOfTimesPlayedPerYear)
